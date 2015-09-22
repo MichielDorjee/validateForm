@@ -4,18 +4,18 @@ label, input{
   display:block;
   float:left;
   font-weight:400;
-  }
-  input[type="text"]{
+}
+input[type="text"]{
   border-radius:3px;
   border:1px solid gray;
   padding:5px 8px;
-  }
-  label{
+}
+label{
   clear:left;
   width:100px;
     line-height:30px;
-  }
-  input[type="submit"]{
+}
+input[type="submit"]{
   clear:left;
   width:308px;
   background-color: #4a8f50;
@@ -24,8 +24,8 @@ label, input{
   color:#fff;
   padding:8px 12px;
   border-radius:5px;
-  }
-  form{
+}
+form{
   width:350px;
   left:50%;
   top:50%;
@@ -39,5 +39,7 @@ label, input{
   border:1px solid lightgray;
   border-bottom:2px solid lightgray;
   border-radius:3px;
-  }
-  body{background-color:#f1f1f1;}
+}
+body{
+  background-color:#f1f1f1;
+}
